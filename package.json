@@ -1,0 +1,19 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "Pagina de ECommerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "ECom"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoRdrz/ECommerce.git"
+  },
+  "author": "DiegoRdrz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoRdrz/ECommerce/issues"
+  },
+  "homepage": "https://github.com/DiegoRdrz/ECommerce#readme"
+}
